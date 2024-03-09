@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "a11e",
+      "text": "new todo",
+      "completed": false,
+      "createdAt": "9/3/2024, 12:27:15 pm"
+    },
+    {
+      "id": "867f",
+      "text": "one more todo",
+      "completed": false,
+      "createdAt": "9/3/2024, 12:27:21 pm"
+    },
+    {
+      "id": "5c2a",
+      "text": "completed todo",
+      "completed": true,
+      "createdAt": "9/3/2024, 12:27:39 pm"
+    },
+    {
+      "id": "3dd8",
+      "text": "assignment completed",
+      "completed": true,
+      "createdAt": "9/3/2024, 12:28:12 pm"
+    }
+  ]
+}
