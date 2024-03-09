@@ -1,5 +1,8 @@
 # todo-json-server
 
+## TODO Image
+![Example Image](todo.png)
+
 ## Project setup
 ```
 npm install
